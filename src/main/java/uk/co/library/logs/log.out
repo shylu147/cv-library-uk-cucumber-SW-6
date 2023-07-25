@@ -1,0 +1,21 @@
+2023-07-25 00:07:188 INFO  HomePage :69 - Entering location: Harrow
+2023-07-25 00:07:270 INFO  HomePage :82 - Clicking on searchOptionLink [[ChromeDriver: chrome on windows (128075a3bf17fb7534cca48e1e285eb1)] -> id: toggle-hp-search]
+2023-07-25 00:07:404 INFO  HomePage :86 - Entering enterTheMinimumSalary: 30000
+2023-07-25 00:07:528 INFO  HomePage :92 - Entering salaryMax: [[ChromeDriver: chrome on windows (128075a3bf17fb7534cca48e1e285eb1)] -> id: salarymax]
+2023-07-25 00:07:638 INFO  HomePage :97 - Selecting salaryTypeDrop: [[ChromeDriver: chrome on windows (128075a3bf17fb7534cca48e1e285eb1)] -> id: salarytype]
+2023-07-25 00:07:715 INFO  HomePage :102 - Selecting jobTypeDrop: [[ChromeDriver: chrome on windows (128075a3bf17fb7534cca48e1e285eb1)] -> id: tempperm]
+2023-07-25 00:07:793 INFO  HomePage :107 - Clicking findJobsBtn: [[ChromeDriver: chrome on windows (128075a3bf17fb7534cca48e1e285eb1)] -> id: hp-search-btn]
+2023-07-25 00:07:705 INFO  HomePage :69 - Entering location: Sutton
+2023-07-25 00:07:782 INFO  HomePage :82 - Clicking on searchOptionLink [[ChromeDriver: chrome on windows (6594979720e02644f2255f09e6b7eb20)] -> id: toggle-hp-search]
+2023-07-25 00:07:885 INFO  HomePage :86 - Entering enterTheMinimumSalary: 40000
+2023-07-25 00:07:07 INFO  HomePage :92 - Entering salaryMax: [[ChromeDriver: chrome on windows (6594979720e02644f2255f09e6b7eb20)] -> id: salarymax]
+2023-07-25 00:07:113 INFO  HomePage :97 - Selecting salaryTypeDrop: [[ChromeDriver: chrome on windows (6594979720e02644f2255f09e6b7eb20)] -> id: salarytype]
+2023-07-25 00:07:181 INFO  HomePage :102 - Selecting jobTypeDrop: [[ChromeDriver: chrome on windows (6594979720e02644f2255f09e6b7eb20)] -> id: tempperm]
+2023-07-25 00:07:254 INFO  HomePage :107 - Clicking findJobsBtn: [[ChromeDriver: chrome on windows (6594979720e02644f2255f09e6b7eb20)] -> id: hp-search-btn]
+2023-07-25 01:07:09 INFO  HomePage :69 - Entering location: London
+2023-07-25 01:07:71 INFO  HomePage :82 - Clicking on searchOptionLink [[ChromeDriver: chrome on windows (a13c967df4aecbedefedff7cf66e35d1)] -> id: toggle-hp-search]
+2023-07-25 01:07:203 INFO  HomePage :86 - Entering enterTheMinimumSalary: 25000
+2023-07-25 01:07:435 INFO  HomePage :92 - Entering salaryMax: [[ChromeDriver: chrome on windows (a13c967df4aecbedefedff7cf66e35d1)] -> id: salarymax]
+2023-07-25 01:07:566 INFO  HomePage :97 - Selecting salaryTypeDrop: [[ChromeDriver: chrome on windows (a13c967df4aecbedefedff7cf66e35d1)] -> id: salarytype]
+2023-07-25 01:07:672 INFO  HomePage :102 - Selecting jobTypeDrop: [[ChromeDriver: chrome on windows (a13c967df4aecbedefedff7cf66e35d1)] -> id: tempperm]
+2023-07-25 01:07:815 INFO  HomePage :107 - Clicking findJobsBtn: [[ChromeDriver: chrome on windows (a13c967df4aecbedefedff7cf66e35d1)] -> id: hp-search-btn]
